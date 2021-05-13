@@ -1,5 +1,11 @@
 ## phone_book_application
-#mern-stack-application-that-stores-user-contacts
+#It is an application that stores users personal contact information.
+#User authentication implemented by JWT token.
+#Technology stack: React, Node.js, Express, MongoDB
+
+
+
+
 ![IMG_20210512_234217](https://user-images.githubusercontent.com/63140467/118023979-c7d66d00-b37b-11eb-8242-a4187f33a173.jpg)
 
 ![IMG_20210512_234201](https://user-images.githubusercontent.com/63140467/118023955-c016c880-b37b-11eb-92dd-c6d20727c95d.jpg)
