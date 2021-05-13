@@ -1,7 +1,7 @@
-## phone_book_application
-# It is an application that stores users personal contact information.
-# User authentication implemented by JWT token.
-# Technology stack: React, Node.js, Express, MongoDB
+# contact_book_application
+### It is an application that stores users personal contact information.
+### User authentication implemented by JWT token.
+### Technology stack: React, Node.js, Express, MongoDB
 
 
 
