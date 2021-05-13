@@ -1,4 +1,4 @@
-# phone_book_application
+## phone_book_application
 #mern-stack-application-that-stores-user-contacts
 ![IMG_20210512_234217](https://user-images.githubusercontent.com/63140467/118023979-c7d66d00-b37b-11eb-8242-a4187f33a173.jpg)
 
